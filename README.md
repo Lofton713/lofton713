@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Stacy Lofton
+
+## Interests (numbered list)
+
+1. text
+2. text
+3. text
+
+## bulleted list
+
+* text
+* text
+* text
+
+### table with columns
+
+| Company | Role | Years |
+|--|--|--|
+| text | text | text |
+| text | text | text |
